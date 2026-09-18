@@ -352,30 +352,6 @@ The project intentionally does not include:
 
 ---
 
-# 🔮 Future Improvements
-
-### Version 2
-
-* [ ] Async scanning with `asyncio`
-* [ ] Better service identification
-* [ ] Scan history
-* [ ] SQLite database
-* [ ] HTML reports
-* [ ] GUI/dashboard
-* [ ] Improved logging
-* [ ] Configurable scan profiles
-
-### Version 3
-
-* [ ] IPv6 support
-* [ ] Advanced protocol identification
-* [ ] Visualization dashboard
-* [ ] Historical comparison
-* [ ] Performance benchmarking
-* [ ] Expanded automated testing
-
----
-
 # 👨‍💻 Author
 
 **Darsh Baheti**
